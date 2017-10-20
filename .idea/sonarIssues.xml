@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="C:/Projects/Customer/api/api.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/Customer/connections/database_connect.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/Customer/customer_loader.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/Customer/model.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/app.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/config.cfg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/controller/core.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/controller/endpoints.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/forms/login_form.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/models/model.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/static/js/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/templates/login.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/stwonapp/views/user.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
